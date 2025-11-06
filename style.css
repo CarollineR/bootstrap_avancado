@@ -1,0 +1,49 @@
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Edu NSW ACT Cursive', cursive;
+            background-color: #fffdf8;
+        }
+
+        header {
+            background-color: #f8ebe9;
+            text-align: center;
+            padding: 30px 0;
+        }
+
+        h1 {
+            color: #725c5a;
+            font-size: 2.8rem;
+        }
+
+        h2 {
+            color: #725c5a;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #f8ebe9;
+            text-align: center;
+            padding: 20px;
+            margin-top: 50px;
+            color: #725c5a;
+        }
+
+        .card img {
+            height: 300px;
+            object-fit: cover;
+        }
+
+        .btn {
+            background-color: #c98f8a;
+            border: none;
+        }
+
+        .btn:hover {
+            background-color: #a96e68;
+        }
